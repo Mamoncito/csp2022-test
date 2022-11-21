@@ -1,5 +1,27 @@
-hi  {
-color: red;
-  font-size: 20pt;
+h1  {
+text-color: white;
 }
 
+li {
+text-color: white;
+}
+
+ul {
+text-color: white;
+}
+
+ol {
+ text-color: white; 
+}
+
+tr {
+ text-color: white; 
+}
+
+th {
+text-color: white;  
+}
+
+td {
+ text-color: white; 
+}
