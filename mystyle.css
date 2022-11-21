@@ -1,27 +1,27 @@
 h1  {
-text-color: white;
+color: white;
 }
 
 li {
-text-color: white;
+ color: white;
 }
 
 ul {
-text-color: white;
+color: white;
 }
 
 ol {
- text-color: white; 
+ color: white; 
 }
 
 tr {
- text-color: white; 
+ color: white; 
 }
 
 th {
-text-color: white;  
+color: white;  
 }
 
 td {
- text-color: white; 
+ color: white; 
 }
