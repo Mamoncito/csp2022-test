@@ -1,31 +1,36 @@
 h1  {
-color: white;
+color: black;
+ font-family: "Lucida Condsole", monospace;
+ 
 }
 
 li {
- color: white;
+ color: black;
 }
 
 ul {
-color: white;
+color: black;
+ font-family: "Times New Roman", serif;
 }
 
 ol {
- color: white; 
+ color: black; 
+ font-famiy: "Courier New", monospace;
 }
 
 tr {
- color: white; 
+ color: black; 
 }
 
 th {
-color: white;  
+color: black;  
 }
 
 td {
- color: white; 
+ color: black; 
 }
 
 body {
- background-image: url
+ background-image: url("https://wallpapercave.com/wp/wp3538012.jpg")
 }
+
