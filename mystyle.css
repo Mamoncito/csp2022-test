@@ -1,33 +1,37 @@
 h1  {
 color: black;
- font-family: "Lucida Condsole", monospace;
+ font-family: "Lucida Console", monospace;
  
 }
 
 li {
- color: black;
+ color: white;
+ font-family: "Lucida Console", monospace;
 }
 
 ul {
-color: black;
+color: white;
  font-family: "Times New Roman", serif;
 }
 
 ol {
- color: black; 
+ color: white; 
  font-famiy: "Courier New", monospace;
 }
 
 tr {
- color: black; 
+ color: white; 
+ font-family: "Lucida Console", monospace;
 }
 
 th {
-color: black;  
+color: white;
+ font-family: "Lucida Console", monospace;
 }
 
 td {
- color: black; 
+ color: white; 
+ font-family: "Lucida Console", monospace;
 }
 
 body {
